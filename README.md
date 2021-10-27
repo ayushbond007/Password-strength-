@@ -32,5 +32,5 @@ weighted avg       0.80      0.82      0.80    133928
 hmm!!!!!!!!!!!!!!!!!!!
 accuracy is very low 
 because our data is biased 
-so to uver come the bisedness of data 
+so to over come the baised data 
 we can use the approach of STRATIFIED SMAPLING to over come the baisedness of data
