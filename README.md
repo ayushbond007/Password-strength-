@@ -7,7 +7,7 @@ logistic regression
 
 
 
-              precision    recall  f1-score   support
+     password   precision    recall  f1-score   support
 
            0       0.58      0.30      0.40     17866
            1       0.84      0.94      0.89     99313
@@ -30,7 +30,8 @@ weighted avg       0.80      0.82      0.80    133928
 
 
 hmm!!!!!!!!!!!!!!!!!!!
-accuracy is very low 
-because our data is biased 
+
+precision and recall of strength 1 is very hih 
+because our data is biased towards 1 means lot of oassword have strength have level one
 so to over come the baised data 
 we can use the approach of STRATIFIED SMAPLING to over come the baisedness of data
