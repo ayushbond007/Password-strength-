@@ -31,7 +31,7 @@ weighted avg       0.80      0.82      0.80    133928
 
 hmm!!!!!!!!!!!!!!!!!!!
 
-precision and recall of strength 1 is very hih 
+precision and recall of strength 1 is very high
 because our data is biased towards 1 means lot of oassword have strength have level one
 so to over come the baised data 
 we can use the approach of STRATIFIED SMAPLING to over come the baisedness of data
